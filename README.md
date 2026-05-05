@@ -25,6 +25,7 @@ Puedes jugar usando el teclado:
 | **Moverse** | `A` `D` / `Flechas` |
 | **Saltar** | `A` / `Down Arrow` |
 | **Atacar** | `Q` / `Right Control` |
+| **Disparar / Interactuar** | `E` / `Right Shift` |
 
 ---
 
