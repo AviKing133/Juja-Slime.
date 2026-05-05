@@ -1,12 +1,6 @@
 # 🎮 JUJA-SLIME
 
 > Una demo para mi juego plataformas sobre este slime que ha perdido su gorra
-
-## 📸 Capturas de Pantalla
-| Exploración | Acción | Menús |
-| :---: | :---: | :---: |
-| ![Screen1](url_de_tu_imagen) | ![Screen2](url_de_tu_imagen) | ![Screen3](url_de_tu_imagen) |
-
 ---
 
 ## 🌟 Características Principales
@@ -17,6 +11,8 @@
 ---
 
 ## ⌨️ Guía de Controles
+Ten en cuenta que puedes clonarte, por tanto, el primer input de 
+los controles es para el original, y el segundo es para el clon
 
 Puedes jugar usando el teclado:
 
