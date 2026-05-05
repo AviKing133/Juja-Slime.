@@ -26,10 +26,11 @@ Puedes jugar usando el teclado:
 | **Saltar** | `A` / `Down Arrow` |
 | **Atacar** | `Q` / `Right Control` |
 | **Disparar / Interactuar** | `E` / `Right Shift` |
+| **Clonarse** | `F` |
 
 ---
 
-## 🛠️ Cómo Empezar (Instalación)
+## 🛠️ Cómo Empezar
 
 1.  Clica en el siguiente enlace para empezar a jugar! 
 2.  Crea una cuenta desde el menu de register
