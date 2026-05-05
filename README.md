@@ -28,7 +28,7 @@ Puedes jugar usando el teclado:
 
 ## 🛠️ Cómo Empezar
 
-1.  Clica en el siguiente enlace para empezar a jugar! 
+1.  Clica en el siguiente enlace para empezar a jugar! [JUJA-SLIME](https://www.ejemplo.com)
 2.  Crea una cuenta desde el menu de register
 3.  Luego inicia sesión desde el menu de Login
 4.  Ya puedes jugar!
