@@ -1,8 +1,6 @@
-# 🎮 [Nombre de tu Juego]
+# 🎮 JUJA-SLIME
 
-> Una breve descripción épica de una frase. Ejemplo: "Un viaje saltarín a través de un mundo pixelado lleno de peligros y secretos."
-
----
+> Una demo para mi juego plataformas sobre este slime que ha perdido su gorra
 
 ## 📸 Capturas de Pantalla
 | Exploración | Acción | Menús |
@@ -13,7 +11,6 @@
 
 ## 🌟 Características Principales
 *   **Plataformas Clásico:** Mecánicas pulidas de salto y movimiento.
-*   **Arte Original:** Estilo visual [Pixel Art / Hand-drawn] único.
 *   **Desafío Progresivo:** Niveles diseñados para poner a prueba tus reflejos.
 *   **Secretos:** Áreas ocultas para los jugadores más curiosos.
 
@@ -21,36 +18,35 @@
 
 ## ⌨️ Guía de Controles
 
-Puedes jugar usando el teclado o un mando compatible:
+Puedes jugar usando el teclado:
 
-| Acción | Teclado | Mando (Gamepad) |
+| Acción | Teclado |
 | :--- | :--- | :--- |
-| **Moverse** | `A` `D` / `Flechas` | `D-Pad` / `Joystick Izquierdo` |
-| **Saltar** | `Espacio` | `Botón A / X` |
-| **Atacar** | `K` / `Click Izq` | `Botón X / □` |
-| **Pausa** | `Esc` | `Start` |
+| **Moverse** | `A` `D` / `Flechas` |
+| **Saltar** | `A` | `Down Arrow` |
+| **Atacar** | `Q` / `Right Control` |
 
 ---
 
 ## 🛠️ Cómo Empezar (Instalación)
 
-1.  **Descarga el juego:** Ve a la sección de [Releases](enlace_a_tus_releases).
-2.  **Descomprime el archivo:** Extrae el contenido en una carpeta.
-3.  **Ejecuta el archivo:** Haz doble clic en `NombreDelJuego.exe`.
+1.  Clica en el siguiente enlace para empezar a jugar! 
+2.  Crea una cuenta desde el menu de register
+3.  Luego inicia sesión desde el menu de Login
+4.  Ya puedes jugar!
 
-> **Nota:** Si el juego requiere alguna librería especial (como .NET o DirectX), asegúrate de mencionarlo aquí.
+> **Nota:** La primera vez puede tardar unos segundos en cargar
 
 ---
 
 ## 🗺️ Elementos del Juego
 
 ### Personajes
-*   **Protagonista:** [Nombre], un valiente aventurero con la habilidad de [Habilidad].
-*   **Enemigos:** Cuidado con los [Nombre de enemigo], no te dejes engañar por su aspecto.
+*   **Protagonista:** Juja, un valiente slime que ha perdido su gorra.
+*   **Enemigos:** Cuidado con los jujers, son parte del *c caga* team.
 
 ### Power-ups
-*   🍎 **Fruta:** Recupera un punto de vida.
-*   ⚡ **Rayo:** Aumenta tu velocidad temporalmente.
+*   ⚡ **Slime:** Recupera un punto de vida y municion.
 
 ---
 
@@ -58,16 +54,14 @@ Puedes jugar usando el teclado o un mando compatible:
 *   **SO:** Windows 10 o superior / macOS / Linux.
 *   **Procesador:** Dual Core 2.0 GHz.
 *   **Memoria:** 2 GB de RAM.
-*   **Gráficos:** Tarjeta integrada con soporte para DirectX 11 o OpenGL 3.3.
+*   **Navegador:** Funciona desde cualquier navegador
 
 ---
 
 ## 🤝 Créditos y Atribuciones
-*   **Desarrollo y Código:** [Tu Nombre/Nick]
-*   **Arte:** [Nombre del artista o link a assets usados]
-*   **Música/SFX:** [Nombre del compositor]
+*   **Desarrollo y Código:** Victor Carús
 
 ---
 
 ## 📄 Licencia
-Este proyecto está bajo la Licencia [MIT/GPL/Creative Commons] - mira el archivo `LICENSE` para más detalles.
+Este proyecto está bajo la Licencia [MIT/GPL/Creative Commons]
