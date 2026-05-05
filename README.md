@@ -21,9 +21,9 @@
 Puedes jugar usando el teclado:
 
 | Acción | Teclado |
-| :--- | :--- | :--- |
+| :--- | :--- |
 | **Moverse** | `A` `D` / `Flechas` |
-| **Saltar** | `A` | `Down Arrow` |
+| **Saltar** | `A` / `Down Arrow` |
 | **Atacar** | `Q` / `Right Control` |
 
 ---
