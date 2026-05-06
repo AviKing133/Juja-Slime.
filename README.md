@@ -32,8 +32,12 @@ Puedes jugar usando el teclado:
 2.  Crea una cuenta desde el menu de register
 
 ![Crear cuenta](Images/Register.png)
-4.  Luego inicia sesión desde el menu de Login
-5.  Ya puedes jugar!
+
+3.  Luego inicia sesión desde el menu de Login
+
+![Crear cuenta](Images/Login.png)
+
+4.  Ya puedes jugar!
 
 > **Nota:** La primera vez puede tardar unos segundos en cargar
 
