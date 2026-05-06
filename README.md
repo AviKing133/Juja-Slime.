@@ -35,7 +35,7 @@ Puedes jugar usando el teclado:
 
 3.  Luego inicia sesión desde el menu de Login
 
-![Crear cuenta](Images/Login.png)
+![Iniciar sesion](Images/Login.png)
 
 4.  Ya puedes jugar!
 
@@ -51,6 +51,47 @@ Puedes jugar usando el teclado:
 
 ### Power-ups
 *   ⚡ **Slime:** Recupera un punto de vida y municion.
+
+## 🗺️ Tutorial del juego
+
+### Movimiento horizontal
+
+![Tutorial](Images/Movimiento.png)
+
+Puedes moverte horizontalmente por el terreno con las teclas A y D, y 
+para controlar el clon las flechas de direccion derecha e izquierda
+
+### Salto cargado
+
+![Tutorial](Images/Salto.png)
+
+Puedes saltar normalmente pulsando la tecla S, o la flecha hacia abajo en 
+caso del clon, pero OJO! Puedes cargar el salto para alcanzar mayor altura
+
+### Ataque melee
+
+![Tutorial](Images/Melee.png)
+
+Para hacer un ataque de corta distancia puedes pulsar
+la tecla Q o el Ctrl derecho en caso del clon
+
+### Disparo
+
+![Tutorial](Images/Disparo.png)
+
+Para hacer un disparo puedes pulsar la tecla E, o el Shift derecho en caso 
+del clon, ten en cuenta que las municiones interactuan con el entorno
+
+> **Nota:** Ten en cuenta que la municion es la vida, asi que elige bien cuando disparar
+
+### Clonarse
+
+![Tutorial](Images/Clonarse.png)
+
+Para clonarte pulsa la tecla F, crearas una copia de ti mismo por 10s, 
+este clon de JUJA puede disparar y atacar a melee. Una vez que lo gastes
+y este desaparezca, se convertirá en un objeto que tendrás que recoger
+para volver a contar con la habilidad.
 
 ---
 
