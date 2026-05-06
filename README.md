@@ -31,7 +31,7 @@ Puedes jugar usando el teclado:
 1.  Clica en el siguiente enlace para empezar a jugar! [JUJA - SLIME](https://aviking133.github.io/Juja-Slime./)
 2.  Crea una cuenta desde el menu de register
 
-![Crear cuenta](Image/Register.png)
+![Crear cuenta](Images/Register.png)
 4.  Luego inicia sesión desde el menu de Login
 5.  Ya puedes jugar!
 
