@@ -70,8 +70,6 @@ caso del clon, pero OJO! Puedes cargar el salto para alcanzar mayor altura
 
 ### Ataque melee
 
-![Tutorial](Images/Melee.png)
-
 Para hacer un ataque de corta distancia puedes pulsar
 la tecla Q o el Ctrl derecho en caso del clon
 
@@ -86,7 +84,7 @@ del clon, ten en cuenta que las municiones interactuan con el entorno
 
 ### Clonarse
 
-![Tutorial](Images/Clonarse.png)
+![Tutorial](Images/Clonacion.png)
 
 Para clonarte pulsa la tecla F, crearas una copia de ti mismo por 10s, 
 este clon de JUJA puede disparar y atacar a melee. Una vez que lo gastes
